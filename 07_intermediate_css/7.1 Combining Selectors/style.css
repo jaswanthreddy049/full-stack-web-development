@@ -1,0 +1,23 @@
+/* Write your code here: */
+h1,h2{
+    color:green;
+}
+li.done{
+    color:blue;
+}
+.list.done li{
+    color:red;
+}
+.done > p{
+    color:yellow;
+}
+
+.box p{
+    color:purple;
+}
+ul p.done {
+    color:palegoldenrod;
+}
+p{
+    color:peru;
+}
